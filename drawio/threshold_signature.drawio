@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-24T08:23:37.130Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36" etag="7a5NRZA1fk_OUqt3jRWa" version="14.9.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-24T08:24:33.737Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36" etag="V2RVayuvl2KiaCHEY-mB" version="14.9.8" type="github">
   <diagram id="mT7NVEQJp89UWrkwp7Li" name="第 1 页">
     <mxGraphModel dx="2460" dy="2133" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -51,7 +51,7 @@
         <mxCell id="S-KS8Klz8F3gYqasTz4s-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Courier New;" parent="1" source="S-KS8Klz8F3gYqasTz4s-16" target="S-KS8Klz8F3gYqasTz4s-17" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="S-KS8Klz8F3gYqasTz4s-16" value="Signer set(m / n)" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Courier New;" parent="1" vertex="1">
+        <mxCell id="S-KS8Klz8F3gYqasTz4s-16" value="n paticipants" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Courier New;" parent="1" vertex="1">
           <mxGeometry x="186" y="-404" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="S-KS8Klz8F3gYqasTz4s-17" value="MAST(C^m_n)" style="whiteSpace=wrap;html=1;rounded=1;fontFamily=Courier New;" parent="1" vertex="1">
