@@ -1,1 +1,43 @@
-<mxfile host="app.diagrams.net" modified="2022-01-10T07:01:34.052Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" version="16.1.2" etag="IbfDZXJ0i-l84wGnn-TX" type="github"><diagram id="Y5_tqUE68A9R9Nfp80as">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-01-10T07:52:28.512Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="kErdiV2Gpsh9K-8_oSxe" version="16.1.2" type="github">
+  <diagram id="Y5_tqUE68A9R9Nfp80as" name="第 1 页">
+    <mxGraphModel dx="983" dy="580" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="YVSVawwebp_zgM7H3Hx8-1" value="Parachain" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;sketch=1;fontFamily=Comic Sans MS;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;gradientColor=#FF66B3;" vertex="1" parent="1">
+          <mxGeometry x="60" y="150" width="150" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="YVSVawwebp_zgM7H3Hx8-2" value="Ethereum" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;sketch=1;fontFamily=Comic Sans MS;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;gradientColor=#67AB9F;gradientDirection=north;" vertex="1" parent="1">
+          <mxGeometry x="690" y="150" width="150" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="YVSVawwebp_zgM7H3Hx8-3" value="Relayers" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;shadow=0;glass=0;sketch=1;fontFamily=Comic Sans MS;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" vertex="1" parent="1">
+          <mxGeometry x="390" y="180" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="YVSVawwebp_zgM7H3Hx8-4" value="" style="endArrow=classic;html=1;rounded=1;fontSize=16;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;strokeWidth=1;shape=flexArrow;sketch=1;" edge="1" parent="1" source="YVSVawwebp_zgM7H3Hx8-1" target="YVSVawwebp_zgM7H3Hx8-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="320" as="sourcePoint" />
+            <mxPoint x="440" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YVSVawwebp_zgM7H3Hx8-5" value="" style="endArrow=classic;html=1;rounded=1;fontSize=16;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;strokeWidth=1;shape=flexArrow;sketch=1;" edge="1" parent="1" source="YVSVawwebp_zgM7H3Hx8-2" target="YVSVawwebp_zgM7H3Hx8-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="320" as="sourcePoint" />
+            <mxPoint x="440" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YVSVawwebp_zgM7H3Hx8-6" value="Mint Erc20，Burn native token" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="270" y="270" width="330" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YVSVawwebp_zgM7H3Hx8-7" value="Mint Erc20，Burn native token" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="270" y="150" width="330" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YVSVawwebp_zgM7H3Hx8-9" value="proposal" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;rounded=1;shadow=0;glass=0;sketch=1;fontFamily=Comic Sans MS;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="570" y="100" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="YVSVawwebp_zgM7H3Hx8-15" value="proposal" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;rounded=1;shadow=0;glass=0;sketch=1;fontFamily=Comic Sans MS;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="200" y="270" width="120" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
