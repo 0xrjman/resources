@@ -1,11 +1,17 @@
-<mxfile host="app.diagrams.net" modified="2022-01-10T07:52:28.512Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="kErdiV2Gpsh9K-8_oSxe" version="16.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-10T08:25:17.289Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="u4f_BPJWMov0pDv6TRYh" version="16.1.2" type="github">
   <diagram id="Y5_tqUE68A9R9Nfp80as" name="第 1 页">
-    <mxGraphModel dx="983" dy="580" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1310" dy="1942" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="YVSVawwebp_zgM7H3Hx8-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Comic Sans MS;fontSize=16;strokeWidth=2;" edge="1" parent="1" source="YVSVawwebp_zgM7H3Hx8-1" target="YVSVawwebp_zgM7H3Hx8-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="YVSVawwebp_zgM7H3Hx8-1" value="Parachain" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;sketch=1;fontFamily=Comic Sans MS;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;gradientColor=#FF66B3;" vertex="1" parent="1">
           <mxGeometry x="60" y="150" width="150" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="YVSVawwebp_zgM7H3Hx8-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Comic Sans MS;fontSize=16;strokeWidth=2;" edge="1" parent="1" source="YVSVawwebp_zgM7H3Hx8-2" target="YVSVawwebp_zgM7H3Hx8-28">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YVSVawwebp_zgM7H3Hx8-2" value="Ethereum" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;sketch=1;fontFamily=Comic Sans MS;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;gradientColor=#67AB9F;gradientDirection=north;" vertex="1" parent="1">
           <mxGeometry x="690" y="150" width="150" height="150" as="geometry" />
@@ -36,6 +42,24 @@
         </mxCell>
         <mxCell id="YVSVawwebp_zgM7H3Hx8-15" value="proposal" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;rounded=1;shadow=0;glass=0;sketch=1;fontFamily=Comic Sans MS;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="200" y="270" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="YVSVawwebp_zgM7H3Hx8-23" style="edgeStyle=orthogonalEdgeStyle;rounded=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.548;entryY=-0.126;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Comic Sans MS;fontSize=16;strokeWidth=2;" edge="1" parent="1" source="YVSVawwebp_zgM7H3Hx8-22" target="YVSVawwebp_zgM7H3Hx8-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YVSVawwebp_zgM7H3Hx8-25" style="edgeStyle=orthogonalEdgeStyle;rounded=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Comic Sans MS;fontSize=16;strokeWidth=2;" edge="1" parent="1" source="YVSVawwebp_zgM7H3Hx8-22" target="YVSVawwebp_zgM7H3Hx8-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YVSVawwebp_zgM7H3Hx8-32" style="edgeStyle=orthogonalEdgeStyle;rounded=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Comic Sans MS;fontSize=16;strokeWidth=2;" edge="1" parent="1" source="YVSVawwebp_zgM7H3Hx8-22" target="YVSVawwebp_zgM7H3Hx8-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YVSVawwebp_zgM7H3Hx8-22" value="Cross-Chain" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=1;fontFamily=Comic Sans MS;fontSize=16;gradientDirection=north;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
+          <mxGeometry x="60" y="-130" width="780" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="YVSVawwebp_zgM7H3Hx8-28" value="Solodity" style="whiteSpace=wrap;html=1;fontSize=16;fontFamily=Comic Sans MS;fillColor=#647687;strokeColor=#314354;fontColor=#ffffff;rounded=1;sketch=1;gradientColor=#67AB9F;gradientDirection=north;" vertex="1" parent="1">
+          <mxGeometry x="707" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YVSVawwebp_zgM7H3Hx8-26" value="Bridge Pallet" style="whiteSpace=wrap;html=1;fontSize=16;fontFamily=Comic Sans MS;fillColor=#6a00ff;strokeColor=#3700CC;fontColor=#ffffff;rounded=1;sketch=1;gradientColor=#FF66B3;" vertex="1" parent="1">
+          <mxGeometry x="80" y="90" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
