@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-10-01T18:58:50.289Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" version="20.3.3" etag="_0CpxZXcb7lhAGdnJdpp" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-01T18:59:05.800Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" version="20.3.3" etag="wOqhDu3xXTFLa0KiZBqm" type="github">
   <diagram id="lm39UnG0xP7g4V9K822q" name="第 1 页">
-    <mxGraphModel dx="4214" dy="4368" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4561" dy="4774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1135,8 +1135,8 @@
         <mxCell id="lZq7xQ4H-G2b-LCNkSoX-274" value="operate UniswapV3 via pool" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontFamily=Comic Sans MS;" vertex="1" parent="lZq7xQ4H-G2b-LCNkSoX-273">
           <mxGeometry y="30" width="200" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="lZq7xQ4H-G2b-LCNkSoX-279" value="Paraspace&lt;br style=&quot;font-size: 40px;&quot;&gt;Protocol&lt;br style=&quot;font-size: 40px;&quot;&gt;Overview" style="html=1;shadow=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#36393d;strokeWidth=1;fillColor=#f9f7ed;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=40;spacing=5;glass=0;sketch=0;" vertex="1" parent="1">
-          <mxGeometry x="100" y="894.46" width="370" height="161.11" as="geometry" />
+        <mxCell id="lZq7xQ4H-G2b-LCNkSoX-279" value="Paraspace Protocol Overview" style="html=1;shadow=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#36393d;strokeWidth=1;fillColor=#f9f7ed;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=40;spacing=5;glass=0;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="669.5" y="974.43" width="720" height="75.57" as="geometry" />
         </mxCell>
         <mxCell id="lZq7xQ4H-G2b-LCNkSoX-280" value="UniswapV3&lt;br&gt;Dynamic&lt;br&gt;Configs&lt;br&gt;Strategy" style="shape=card;whiteSpace=wrap;html=1;shadow=1;rounded=1;sketch=1;fontFamily=Comic Sans MS;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="1286.5" y="350.85999999999996" width="90" height="114.21" as="geometry" />
